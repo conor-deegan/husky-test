@@ -1,0 +1,12 @@
+{
+  "name": "husky-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^8.0.1"
+  },
+  "scripts": {
+    "postinstall": "husky install"
+  }
+}
